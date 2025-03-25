@@ -107,6 +107,7 @@ As a result, each indicator's average debt is as follows:
 - DT.INT.MLAT.CD	136.23
 - DT.DIS.PROP.CD	81.14
 - DT.INT.PROP.CD	34.25
+
 This sheds light on the most prevalent debt categories and the amount of financial strain each indicator represents.
 
 ![Query](Images/Q.5.png)
