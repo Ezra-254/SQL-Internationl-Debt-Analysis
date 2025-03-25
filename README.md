@@ -50,27 +50,27 @@ The dataset thus includes the following several debt indicators:
 - PPG, bonds (INT, current US$)
 - Interest payments on external debt, long-term (INT, current US$)
 - PPG, multilateral (INT, current US$)
-PPG, commercial banks (AMT, current US$)
-PPG, official creditors (AMT, current US$)
-PPG, bonds (AMT, current US$)
-Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)
-PPG, bilateral (AMT, current US$)
-PPG, private creditors (INT, current US$)
-PPG, other private creditors (DIS, current US$)
-PPG, official creditors (INT, current US$)
-Disbursements on external debt, long-term (DIS, current US$)
-PPG, multilateral (DIS, current US$)
-PPG, bilateral (INT, current US$)
-PPG, official creditors (DIS, current US$)
-Principal repayments on external debt, long-term (AMT, current US$)
-PPG, bilateral (DIS, current US$)
-PPG, private creditors (AMT, current US$)
-PPG, commercial banks (DIS, current US$)
-PPG, other private creditors (INT, current US$)
-PPG, multilateral (AMT, current US$)
-PPG, commercial banks (INT, current US$)
-PPG, private creditors (DIS, current US$)
-PPG, other private creditors (AMT, current US$)] 
+- PPG, commercial banks (AMT, current US$)
+- PPG, official creditors (AMT, current US$)
+- PPG, bonds (AMT, current US$)
+- Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)
+- PPG, bilateral (AMT, current US$)
+- PPG, private creditors (INT, current US$)
+- PPG, other private creditors (DIS, current US$)
+- PPG, official creditors (INT, current US$)
+- Disbursements on external debt, long-term (DIS, current US$)
+- PPG, multilateral (DIS, current US$)
+- PPG, bilateral (INT, current US$)
+- PPG, official creditors (DIS, current US$)
+- Principal repayments on external debt, long-term (AMT, current US$)
+- PPG, bilateral (DIS, current US$)
+- PPG, private creditors (AMT, current US$)
+- PPG, commercial banks (DIS, current US$)
+- PPG, other private creditors (INT, current US$)
+- PPG, multilateral (AMT, current US$)
+- PPG, commercial banks (INT, current US$)
+- PPG, private creditors (DIS, current US$)
+- PPG, other private creditors (AMT, current US$)] 
 These markers show several kinds of debt, including grants, loans, principle payback etc.
 
 ![Query](Images/Q.3.png)
@@ -82,31 +82,31 @@ Result: With a total debt of (285793517568) million, China is the nation with th
 Finding the average debt across various debt indicators is the question.
 As a result, each indicator's average debt is as follows:
 
-DT.AMT.DLXF.CD	5904.87
-DT.AMT.DPNG.CD	5161.19
-DT.DIS.DLXF.CD	2152.04
-DT.DIS.OFFT.CD	1958.98
-DT.AMT.PRVT.CD	1803.69
-DT.INT.DLXF.CD	1644.02
-DT.DIS.BLAT.CD	1223.14
-DT.INT.DPNG.CD	1220.41
-DT.AMT.OFFT.CD	1191.19
-DT.AMT.PBND.CD	1082.62
-DT.DIS.MLAT.CD	839.84
-DT.INT.PBND.CD	804.73
-DT.AMT.PROP.CD	746.89
-DT.AMT.PCBK.CD	734.87
-DT.INT.PRVT.CD	719.74
-DT.AMT.BLAT.CD	712.62
-DT.AMT.MLAT.CD	490.06
-DT.DIS.PRVT.CD	311.32
-DT.INT.OFFT.CD	297.68
-DT.DIS.PCBK.CD	293.31
-DT.INT.BLAT.CD	164.09
-DT.INT.PCBK.CD	156.65
-DT.INT.MLAT.CD	136.23
-DT.DIS.PROP.CD	81.14
-DT.INT.PROP.CD	34.25
+- DT.AMT.DLXF.CD	5904.87
+- DT.AMT.DPNG.CD	5161.19
+- DT.DIS.DLXF.CD	2152.04
+- DT.DIS.OFFT.CD	1958.98
+- DT.AMT.PRVT.CD	1803.69
+- DT.INT.DLXF.CD	1644.02
+- DT.DIS.BLAT.CD	1223.14
+- DT.INT.DPNG.CD	1220.41
+- DT.AMT.OFFT.CD	1191.19
+- DT.AMT.PBND.CD	1082.62
+- DT.DIS.MLAT.CD	839.84
+- DT.INT.PBND.CD	804.73
+- DT.AMT.PROP.CD	746.89
+- DT.AMT.PCBK.CD	734.87
+- DT.INT.PRVT.CD	719.74
+- DT.AMT.BLAT.CD	712.62
+- DT.AMT.MLAT.CD	490.06
+- DT.DIS.PRVT.CD	311.32
+- DT.INT.OFFT.CD	297.68
+- DT.DIS.PCBK.CD	293.31
+- DT.INT.BLAT.CD	164.09
+- DT.INT.PCBK.CD	156.65
+- DT.INT.MLAT.CD	136.23
+- DT.DIS.PROP.CD	81.14
+- DT.INT.PROP.CD	34.25
 This sheds light on the most prevalent debt categories and the amount of financial strain each indicator represents.
 
 ![Query](Images/Q.5.png)
@@ -121,12 +121,13 @@ Result: With a total repayment of (96218.62) million, China has made the largest
 7. The Most Frequently Used Debt Indicator Worldwide
 Finding the most widely used debt indicator worldwide is the question.
 
-As a result, PPG, multilateral (INT, current US$)	                            124
-             Principal repayments on external debt, long-term (AMT, current US$)	124
-             Interest payments on external debt, long-term (INT, current US$)	124
-             PPG, official creditors (INT, current US$)                	       124
-             PPG, multilateral (AMT, current US$)	                            124
-             PPG, official creditors (AMT, current US$)	                            124 
+As a result:
+- PPG, multilateral (INT, current US$)	                             
+- Principal repayments on external debt, long-term (AMT, current US$)	 
+- Interest payments on external debt, long-term (INT, current US$)	
+-  PPG, official creditors (INT, current US$)                	       
+- PPG, multilateral (AMT, current US$)	                            
+- PPG, official creditors (AMT, current US$)	                             
 Which appears 124 times, are the most prevalent debt indicators worldwide. The most prevalent kind of debt obligation in the dataset is probably reflected in this indicator.
 
 ![Query](Images/Q.7.png)
