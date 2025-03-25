@@ -33,11 +33,15 @@ To give a general picture of the debt distribution in different nations. This wi
  1. All Nation Total Debt Owed
 Finding the total debt across all nations is the query here.
 The dataset's total debt across all nations comes out to be 3079735.08 million. This is the total debt owing by every nation taken together.
+
 ![Query](Images/Q.1.png)
+
 2. count of different nations
 Counting the several nations shown in the dataset: query
 The dataset thus consists of 124 different nations. This shows the whole coverage of the dataset worldwide.
+
 ![Query](Images/Q.2.png)
+
 3. Various Categories of Debt Indicators
 Finding the several debt indicator forms applied in the dataset is the query.
 The dataset thus includes the following several debt indicators:
@@ -68,6 +72,7 @@ PPG, commercial banks (INT, current US$)
 PPG, private creditors (DIS, current US$)
 PPG, other private creditors (AMT, current US$)] 
 These markers show several kinds of debt, including grants, loans, principle payback etc.
+
 ![Query](Images/Q.3.png)
 
 4. Country with the Highest Total Debt Question: Determine which nation has the highest total debt.
@@ -103,12 +108,14 @@ DT.INT.MLAT.CD	136.23
 DT.DIS.PROP.CD	81.14
 DT.INT.PROP.CD	34.25
 This sheds light on the most prevalent debt categories and the amount of financial strain each indicator represents.
+
 ![Query](Images/Q.5.png)
 
 
 6. The nation with the largest principal repayment amount
 Finding the nation with the largest principal repayments is the question.
 Result: With a total repayment of (96218.62) million, China has made the largest principal repayments. This illustrates the nation's resolve to lower its debt.
+
 ![Query](Images/Q.6.png)
 
 7. The Most Frequently Used Debt Indicator Worldwide
@@ -121,6 +128,7 @@ As a result, PPG, multilateral (INT, current US$)	                            12
              PPG, multilateral (AMT, current US$)	                            124
              PPG, official creditors (AMT, current US$)	                            124 
 Which appears 124 times, are the most prevalent debt indicators worldwide. The most prevalent kind of debt obligation in the dataset is probably reflected in this indicator.
+
 ![Query](Images/Q.7.png)
 
 8. The Distribution of Debt in Various Nations
@@ -132,5 +140,6 @@ As a result, the debt is distributed as follows among nations:
 FROM international_debt
 GROUP BY country_name
 ORDER BY total_debt_millions DESC;] This section illustrates the distribution of debt among nations, making it easier to determine which nations are most indebted. It also sheds light on the disparities in global debt.
+
 ![Query](Images/Q.8.png)
 
