@@ -129,7 +129,7 @@ As a result:
 - PPG, multilateral (AMT, current US$)	                            
 - PPG, official creditors (AMT, current US$)	                             
 Which appears 124 times, are the most prevalent debt indicators worldwide.
-The most prevalent kind of debt obligation in the dataset is probably reflected in this indicator.
+  
 
 ![Query](Images/Q.7.png)
 
