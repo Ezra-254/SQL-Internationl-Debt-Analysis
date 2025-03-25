@@ -6,25 +6,26 @@
 1. To evaluate the total amount of debt owed by all nations.
 To ascertain how much debt each of the nations in the dataset has accrued overall. This will give a global picture of how much debt each country has.
 
-2. Determine the Total Number of Recorded Countries
+
+3. Determine the Total Number of Recorded Countries
 Determine how many distinct nations are included in the dataset overall. This aids in comprehending the scope and geographic coverage of the data.
 
-3. Examine the Debt Indicators
+4. Examine the Debt Indicators
 To recognize and classify the various debt indicator types present in the dataset. This will shed light on the various debt categories that are monitored and their importance.
 
-4. Find Out Which Nation Has the Most Debt
+5. Find Out Which Nation Has the Most Debt
 To determine which nation owes the most money overall and assess the
 
-5. Analyze the Mean Debt for All Debt Measures
+6. Analyze the Mean Debt for All Debt Measures
 Calculating and comparing the average debt across various debt indicators . This will make it easier to comprehend the most prevalent debt categories and the resulting financial strain.
 
-6. Examine Principal Repayments
+7. Examine Principal Repayments
 Finding the nation with the largest principal repayments . This will show which countries are actively managing their financial commitments and lowering their debt loads.
 
-7. Find the Most Frequently Used Debt Indicator
+8. Find the Most Frequently Used Debt Indicator
 Ascertain which debt indicator is most common across nations in order to identify the most common debt type.
 
-8. Recognize the Distribution of Debt by Country
+9. Recognize the Distribution of Debt by Country
 To give a general picture of the debt distribution in different nations. This will assist in examining global debt and determining which nations have the largest debt loads.
 
 
