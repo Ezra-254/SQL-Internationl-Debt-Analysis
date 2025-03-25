@@ -1,8 +1,8 @@
-# Countries take on debt not just for necessities but to support economic development. Infrastructure spending, for instance, is a costly yet crucial investment for a country’s progress. The World Bank provides debt financing to developing countries to facilitate such initiatives.
+## Countries take on debt not just for necessities but to support economic development. Infrastructure spending, for instance, is a costly yet crucial investment for a country’s progress. The World Bank provides debt financing to developing countries to facilitate such initiatives.
 
-# This project will focus on orecasting international debt trends using World Bank data. The dataset includes information on the total debt (in USD) owed by developing countries across multiple debt categories from 1970 to 2015.
+## This project will focus on orecasting international debt trends using World Bank data. The dataset includes information on the total debt (in USD) owed by developing countries across multiple debt categories from 1970 to 2015.
 
-       OBJECTIVES OF THE ANALYSIS:
+# OBJECTIVES OF THE ANALYSIS:
 1. To evaluate the total amount of debt owed by all nations.
 To ascertain how much debt each of the nations in the dataset has accrued overall. This will give a global picture of how much debt each country has.
 
@@ -29,7 +29,7 @@ Ascertain which debt indicator is most common across nations in order to identif
 To give a general picture of the debt distribution in different nations. This will assist in examining global debt and determining which nations have the largest debt loads.
 
 
-         INTERNATIONAL DEBT REPORT:
+ # INTERNATIONAL DEBT REPORT:
  1. All Nation Total Debt Owed
 Finding the total debt across all nations is the query here.
 The dataset's total debt across all nations comes out to be 3079735.08 million. This is the total debt owing by every nation taken together.
