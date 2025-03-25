@@ -46,10 +46,10 @@ The dataset thus consists of 124 different nations. This shows the whole coverag
 Finding the several debt indicator forms applied in the dataset is the query.
 The dataset thus includes the following several debt indicators:
 
-Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)
-PPG, bonds (INT, current US$)
-Interest payments on external debt, long-term (INT, current US$)
-PPG, multilateral (INT, current US$)
+- Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)
+- PPG, bonds (INT, current US$)
+- Interest payments on external debt, long-term (INT, current US$)
+- PPG, multilateral (INT, current US$)
 PPG, commercial banks (AMT, current US$)
 PPG, official creditors (AMT, current US$)
 PPG, bonds (AMT, current US$)
