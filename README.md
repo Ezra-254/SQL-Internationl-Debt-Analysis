@@ -33,7 +33,7 @@ To give a general picture of the debt distribution in different nations. This wi
  1. All Nation Total Debt Owed
 Finding the total debt across all nations is the query here.
 The dataset's total debt across all nations comes out to be 3079735.08 million. This is the total debt owing by every nation taken together.
-![Query](images/Q.1.png)
+![Query](Images/Q.1.png)
 2. count of different nations
 Counting the several nations shown in the dataset: query
 
