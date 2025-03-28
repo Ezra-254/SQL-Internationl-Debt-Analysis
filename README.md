@@ -77,7 +77,9 @@ These markers show several kinds of debt, including grants, loans, principle pay
 
 4. Country with the Highest Total Debt Question: Determine which nation has the highest total debt.
 Result: With a total debt of (285793517568) million, China is the nation with the largest total debt. This illustrates this nation's substantial financial commitments.
+
 ![Query](Images/Q.4.png)
+
 5. Average Debt Among Various Debt Measures
 Finding the average debt across various debt indicators is the question.
 As a result, each indicator's average debt is as follows:
